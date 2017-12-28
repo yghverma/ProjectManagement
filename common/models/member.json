@@ -10,7 +10,7 @@
       "type": "string",
       "required": true
     },
-    "middletName": {
+    "middleName": {
       "type": "string",
       "required": true
     },
