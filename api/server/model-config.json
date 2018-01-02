@@ -15,26 +15,26 @@
   },
   "User": {
     "dataSource": "db",
-    "public": true
+    "public": false
   },
   "AccessToken": {
     "dataSource": "db",
-    "public": true
+    "public": false
   },
   "ACL": {
     "dataSource": "db",
-    "public": true
+    "public": false
   },
   "RoleMapping": {
     "dataSource": "db",
-    "public": true,
+    "public": false,
     "options": {
-      "strictObjectIDCoercion": true
+      "strictObjectIDCoercion": false
     }
   },
   "Role": {
     "dataSource": "db",
-    "public": true
+    "public": false
   },
   "Member": {
     "dataSource": "db",
