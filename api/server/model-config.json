@@ -29,7 +29,7 @@
     "dataSource": "db",
     "public": false,
     "options": {
-      "strictObjectIDCoercion": true
+      "strictObjectIDCoercion": false
     }
   },
   "Role": {
