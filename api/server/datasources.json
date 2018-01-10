@@ -1,17 +1,7 @@
 {
-  "inMemory": {
+  "db": {
     "name": "db",
     "connector": "memory",
     "file": "projectManagement.json"
-  },
-  "db": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "projectManagement",
-    "password": "",
-    "name": "projectManagement",
-    "user": "",
-    "connector": "mongodb"
   }
 }
